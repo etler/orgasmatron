@@ -1,6 +1,8 @@
 # Orgasmatron - HTML head tag extractor
 
-A simple easy to use HTML [head scraper](http://en.wikipedia.org/wiki/Orgasmatron_(massage_device)) that provides a clean interface for extracting data from the tags within the `head` tag.
+A simple easy to use HTML [head scraper][1] that provides a clean interface for extracting data from the tags within the `head` tag.
+
+[1]: http://en.wikipedia.org/wiki/Orgasmatron_(massage_device)
 
 ## Full access to all head tags
 
