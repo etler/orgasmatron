@@ -6,7 +6,10 @@
   "author" : "Tim Etler <tmetler@gmail.com> (http://www.timetler.com)",
   "repository" :
     { "type" : "git"
-    , "url" : "git@github.com:etler/orgasmatron.git" },
+    , "url" : "http://github.com/etler/orgasmatron.git" },
+  "bugs":
+    { "url": "http://github.com/etler/orgasmatron/issues" },
+  "main": "index.js",
   "dependencies" :
     { "cheerio" : "0.13.x"
     , "request" : "2.34.x" }
