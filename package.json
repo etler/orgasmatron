@@ -1,6 +1,6 @@
 {
   "name": "orgasmatron",
-  "version" : "v0.0.0",
+  "version" : "v0.0.1",
   "description" : "Easily scrape websites for html header meta data",
   "keywords" : [ "head scraper", "site scraper", "meta scraper", "scraper", "open graph", "opengraph", "og", "meta data" ],
   "author" : "Tim Etler <tmetler@gmail.com> (http://www.timetler.com)",
