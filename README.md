@@ -1,6 +1,8 @@
 # Orgasmatron - HTML head tag extractor
 
-A simple easy to use HTML [head scraper][1] that provides a clean interface for extracting data from the tags within the `head` tag.
+>[Wikipedia](1) - The Orgasmatron is a manually operated head massage device made of partially flexible copper wires attached to a handle. The device has been specifically designed to gently massage the head and the back of the neck.
+
+A simple easy to use HTML head scraper that provides a clean interface for extracting data from the tags within the `head` tag.
 
 [1]: http://en.wikipedia.org/wiki/Orgasmatron_(massage_device)
 
