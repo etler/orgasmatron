@@ -11,6 +11,6 @@
     { "url": "http://github.com/etler/orgasmatron/issues" },
   "main": "index.js",
   "dependencies" :
-    { "cheerio" : "0.13.x"
-    , "request" : "2.34.x" }
+    { "cheerio" : "0.19.x"
+    , "request" : "2.63.x" }
 }
