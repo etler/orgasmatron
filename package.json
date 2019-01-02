@@ -1,16 +1,28 @@
 {
   "name": "orgasmatron",
-  "version" : "v0.1.1",
-  "description" : "Easily scrape websites for html header meta data",
-  "keywords" : [ "head scraper", "site scraper", "meta scraper", "scraper", "open graph", "opengraph", "og", "meta data" ],
-  "author" : "Tim Etler <tmetler@gmail.com> (http://www.timetler.com)",
-  "repository" :
-    { "type" : "git"
-    , "url" : "http://github.com/etler/orgasmatron.git" },
-  "bugs":
-    { "url": "http://github.com/etler/orgasmatron/issues" },
+  "version": "v0.1.1",
+  "description": "Easily scrape websites for html header meta data",
+  "keywords": [
+    "head scraper",
+    "site scraper",
+    "meta scraper",
+    "scraper",
+    "open graph",
+    "opengraph",
+    "og",
+    "meta data"
+  ],
+  "author": "Tim Etler <tmetler@gmail.com> (http://www.timetler.com)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/etler/orgasmatron.git"
+  },
+  "bugs": {
+    "url": "http://github.com/etler/orgasmatron/issues"
+  },
   "main": "index.js",
-  "dependencies" :
-    { "cheerio" : "0.19.x"
-    , "request" : "2.63.x" }
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.88.0"
+  }
 }
