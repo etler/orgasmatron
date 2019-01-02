@@ -1,6 +1,6 @@
 {
   "name": "orgasmatron",
-  "version": "v0.1.1",
+  "version": "v0.1.2",
   "description": "Easily scrape websites for html header meta data",
   "keywords": [
     "head scraper",

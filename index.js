@@ -1,4 +1,4 @@
-/* orgasmatron v0.1.1
+/* orgasmatron v0.1.2
    HTML head scraper
    http://github.com/etler/orgasmatron
 
