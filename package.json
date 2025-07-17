@@ -24,5 +24,6 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "request": "^2.88.0"
-  }
+  },
+  "license": "MIT"
 }

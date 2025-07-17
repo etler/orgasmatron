@@ -87,3 +87,6 @@ That would only return the first meta tag with a an attribute of `property` set 
 ```javascript
 {property: 'og:title' content: 'My First Website'}
 ```
+
+## License
+MIT
